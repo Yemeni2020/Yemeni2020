@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Yemeni2020/Yemeni2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Osama Shujaa Aldeen
+# Hi there 👋, I'm Osama Shujaa Aldeen
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;Laravel+%7C+React+%7C+Filament;Building+scalable+web+applications;Turning+business+needs+into+working+products" alt="Typing SVG" />
