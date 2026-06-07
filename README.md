@@ -112,6 +112,7 @@ I have worked on ecommerce platforms, medical content systems, AI-assisted websi
 
 - Arabic: Native
 - English: Fluent
+- Germany: Conversational
 
 ---
 
