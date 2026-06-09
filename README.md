@@ -72,27 +72,7 @@ I have worked on ecommerce platforms, medical content systems, AI-assisted websi
 
 ---
 
-## Experience Snapshot
 
-### Full-Stack Developer | Real Silk Company
-
-- Building ecommerce platforms, business websites, sports portals, and AI-assisted applications
-- Developing company websites and medical blog platforms with integrated AI features
-- Shipping React-based interfaces with performance and quality in mind
-- Working across Laravel, WordPress, and ASP.NET implementations for client needs
-
-### Full Stack Developer | Self-Employed
-
-- Delivered Laravel-based applications for clients with secure authentication and maintainable workflows
-- Combined frontend work across HTML, CSS, JavaScript, React, and Laravel
-- Improved database design and query performance for production use
-
-### ERPNext Developer | Independent Projects
-
-- Customized ERPNext modules for sales, accounting, HR, and inventory operations
-- Built scripts, reports, and API integrations to streamline repetitive business tasks
-
----
 
 ## Featured Work
 
